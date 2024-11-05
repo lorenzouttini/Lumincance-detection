@@ -44,7 +44,6 @@ Three gamma correction methods were applied to underexposed and overexposed imag
 The project demonstrated that reducing model complexity improves classification accuracy. Gamma correction was effectively applied to the images, and our approach of combining classification and entropy metrics provided robust results. Future improvements could include increasing dataset size and exploring more advanced evaluation metrics for gamma correction.
 
 ## Technology Stack
-- Python
 - MATLAB 
 
 
