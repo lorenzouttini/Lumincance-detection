@@ -1,5 +1,4 @@
 # Lumincance-detection
-University of Pavia - Signal and Image Processing (509499)
 
 ## Project Overview
 This project focuses on two primary tasks: **Image Classification** and **Image Correction**. Using a dataset of 138 images with various exposure levels, we trained classifiers to categorize images into one of three exposure categories (correctly exposed, underexposed, and overexposed). We also experimented with three methods for correcting improperly exposed images by applying **gamma correction** and evaluated the results using classification models and an entropy-based metric.
